@@ -1,4 +1,4 @@
-- Hello! My name is Justin, and I'm a research statistician and aspiring data scientist. Also a cat person.
+- Hello! My name is Justin, and I'm a research statistician and an aspiring data scientist. Also a cat person.
 - M.S. in Applied Statistics
 - Main tools: R, Python, SPSS, MySQL, TensorFlow, Scikit-learn
 <!---
